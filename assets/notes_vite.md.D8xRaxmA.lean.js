@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,a4 as t}from"./chunks/framework.BOW58p_D.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/vite.md","filePath":"notes/vite.md"}'),p={name:"notes/vite.md"},n=t("",14),o=[n];function i(l,c,d,u,h,r){return e(),a("div",null,o)}const m=s(p,[["render",i]]);export{v as __pageData,m as default};
