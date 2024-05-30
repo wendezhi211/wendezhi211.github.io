@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.BOW58p_D.js";const o=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/css.md","filePath":"notes/css.md"}'),h={name:"notes/css.md"},l=n("",67),t=[l];function p(k,e,E,r,d,g){return a(),i("div",null,t)}const y=s(h,[["render",p]]);export{o as __pageData,y as default};
